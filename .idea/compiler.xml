@@ -10,5 +10,8 @@
         <module name="teaching" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kata-doppelganger_OMX" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
